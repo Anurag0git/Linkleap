@@ -54,7 +54,7 @@ The application is deployed on AWS with a decoupled architecture, ensuring scala
 
 -----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Backend:** Java 17, Spring Boot 3, Spring Web, Spring Data JPA, Hibernate
 * **Frontend:** Thymeleaf, HTML5, CSS3
@@ -68,7 +68,7 @@ The application is deployed on AWS with a decoupled architecture, ensuring scala
 
 -----
 
-## ⚙️ Local Setup and Installation
+##  Local Setup and Installation
 
 To run this project on your local machine, follow these steps:
 
@@ -112,7 +112,7 @@ To run this project on your local machine, follow these steps:
 
 -----
 
-## 🚀 Deployment Process
+##  Deployment Process
 
 The application is deployed on AWS following these key steps:
 
@@ -125,7 +125,7 @@ The application is deployed on AWS following these key steps:
 
 -----
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Containerize the application with **Docker** for easier and more consistent deployments.
 * Set up a **CI/CD pipeline** (e.g., with GitHub Actions) to automate the build and deployment process.
